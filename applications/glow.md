@@ -256,7 +256,7 @@ Upcoming features include a user-friendly web-browser [UI](https://www.youtube.c
 | 1 | *Glow* backend into Substrate smart contracts | We will create passes for the *Glow* compiler and support in the *Glow* runtime so that existing *Glow* programs can be compiled on a Substrate chain. |
 | 2 | Test environment | We will provide a deterministic build using Nix or GUIX, from which a docker image can be generated that can reliably run tests for CI/CD in gitlab |
 | 3 | Documentation | We will update the documentation of *Glow* with explanations on how to deploy our DApps on a relevant test or production Substrate chains. |
-| 4 | Slack | Handle unforeseen difficulties in the above |
+| 4 | Slack | Handle unforeseen difficulties in the above 
 
 ## Future Plans
 
@@ -279,7 +279,10 @@ An extensive bibliography about the design and implementation of *Glow*,
 Including related present and past works by its authors, is available
 [on our wiki](https://gitlab.com/mukn/glow/-/wikis/Bibliography/Glow).
 
-### [Some Simple DApps in *Glow*](https://gitlab.com/mukn/glow/-/tree/master/dapps)
+### Sample DApps
 
 
-### Appendix B: [Comparison between the same contract in *Ink!* vs. *Glow*(https://gitlab.com/mukn/glow/-/wikis/Competition/Ink!)
+[Some Simple DApps in *Glow*](https://gitlab.com/mukn/glow/-/tree/master/dapps)
+
+
+[Comparison between the same contract in *Ink!* vs. *Glow*](https://gitlab.com/mukn/glow/-/wikis/Competition/Ink!)
